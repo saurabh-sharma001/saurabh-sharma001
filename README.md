@@ -30,4 +30,4 @@ Currently building products at **LV8 Tech**.
 
 - LinkedIn: [linkedin.com/in/saurabh-data-analytics](https://www.linkedin.com/in/saurabh-data-analytics/)
 - Email: saurabhinitial.sharma@gmail.com
-- Portfolio: [saurabh-sharma001.github.io](https://saurabh-sharma001.github.io)
+- Portfolio: [saurabhsharma-dev.vercel.app](https://saurabhsharma-dev.vercel.app/)
