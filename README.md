@@ -20,7 +20,7 @@ Currently building products at **LV8 Tech**.
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Dayboard** | Daily planning dashboard for students, with timed study blocks, an XP reward system and parent analytics | Next.js, TypeScript, MongoDB |
+| **Lumora** | Daily planning dashboard for students, with timed study blocks, an XP reward system and parent analytics | Next.js, TypeScript, MongoDB |
 | **Expense Board** | Company expense dashboard with receipt logging and an approval workflow | Next.js, React, MongoDB, Auth.js |
 | **Farm website redesign** | Rebuilt a 34-page Squarespace site as a modern, animated Next.js site | Next.js, GSAP, Framer Motion |
 | **[Analytics Dashboard](https://github.com/saurabh-sharma001/Infosys_Project)** | Streamlit dashboard with user login and income data visualisation | Python, Streamlit, SQLite |
